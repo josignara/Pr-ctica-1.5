@@ -1,0 +1,1 @@
+<p class="obliquo">Mi nombre es <span class="azul";>José ignacio </span> y estudio <span class="rojo"> ASIR</span> </p>
